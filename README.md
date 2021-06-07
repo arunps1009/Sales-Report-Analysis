@@ -1,0 +1,2 @@
+# Sales-Report-Analysis
+Using this program it will be a lot easier to get all required results from a partywise packwise report of an FMCG company. A little modifications would be required basis nomenclature. This considers all necessary files i.e one folder with target text file and a sub folder of Daily sales report. It can actually give you a lot of useful results without actually opening the files in excel.
